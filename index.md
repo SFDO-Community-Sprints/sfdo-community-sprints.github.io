@@ -5,5 +5,5 @@ description: ""
 permalink: /
 ---
 
-# Salesforce.org Open Source Commons
+# Salesforce.org Open Source Commons & Community Sprints
 
