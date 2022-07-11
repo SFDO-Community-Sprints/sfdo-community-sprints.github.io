@@ -7,13 +7,6 @@ has_children: true
 # Welcome to the Open Source Commons!
 _New volunteers, we're so glad you're here!_
 
-# What to expect during a sprint/mini sprint
-* Pair programming or heads-down writing mixed with occasional big picture brainstorming
-* Breakout rooms on top of breakout rooms
-* Learning how to use GitHub and helping each other get unstuck
-* Take breaks (ok to join a work call if needed)
-* (Virtual only): We encourage you to keep video on (if you are comfortable doing so)
-* Sense of accomplishment for making Pull Requests (PRs) against Issues !!!
 
 # Some prep you can do on your own
 _these will take some time and you might need some support if you are not familiar with Developer tools.  Project members are available to help you_
