@@ -1,7 +1,7 @@
 ---
-title: Tool Name
+title: Metecho
 nav_order: 1
-parent: Tools
+parent: Tooling
 ---
 
 # Metéchō
