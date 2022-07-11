@@ -2,9 +2,9 @@ title: Salesforce.org Open Source Commons
 description: Information about Salesforce.org Open Source Commons and Community Sprints
 timezone: America/Chicago
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://sfdo-community-sprints.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sfdo-community-sprints.GitHub.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Information on theme https://just-the-docs.github.io/just-the-docs/
+# Information on theme https://just-the-docs.GitHub.io/just-the-docs/
 remote_theme: just-the-docs/just-the-docs
 
 # Color scheme supports "light" (default) and "dark"
@@ -14,7 +14,23 @@ color_scheme: dark
 logo: "/assets/images/OSC-header.png"
 
 permalink: pretty
-exclude: [ "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/" ]
+exclude:
+  [
+    "node_modules/",
+    "*.gemspec",
+    "*.gem",
+    "Gemfile",
+    "Gemfile.lock",
+    "package.json",
+    "package-lock.json",
+    "script/",
+    "LICENSE.txt",
+    "lib/",
+    "bin/",
+    "README.md",
+    "Rakefile",
+    "docs/tests/",
+  ]
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -57,7 +73,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 # gh_edit_link: true # show or hide edit this page link
 # gh_edit_link_text: "Edit this page on GitHub"
-# gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
+# gh_edit_repository: "https://GitHub.com/just-the-docs/just-the-docs" # the GitHub URL for your repo
 # gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 # gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
@@ -74,12 +90,11 @@ compress_html:
   clippings: all
   comments: all
   endings: all
-  startings: [ ]
+  startings: []
   blanklines: false
   profile: false
   # ignore:
   #   envs: all
-
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 # ga_tracking: UA-2709176-10
