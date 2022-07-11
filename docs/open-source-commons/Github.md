@@ -1,7 +1,7 @@
 ---
 title: Tool Name
 nav_order: 1
-parent: Tools
+parent: Open Source Commons
 ---
 
 # Github
