@@ -1,10 +1,14 @@
----
+--- 
 title: Tool Name
 nav_order: 1
 parent: Open Source Commons
+nav_exclude: true
 ---
 
-# Tool Name
+Update the section above with the tool name. Remove the nav_exclude line.
+
+
+# <Replace with Tool Name>
 
 
 ##  Why Use This Tool
