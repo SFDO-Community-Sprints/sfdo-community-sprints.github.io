@@ -1,7 +1,7 @@
 ---
 title: CumulusCI
 nav_order: 2
-parent: Open Source Commons
+parent: Tooling
 ---
 
 # CumulusCI
