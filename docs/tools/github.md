@@ -5,7 +5,7 @@ parent: Open Source Commons
 ---
 
 # GitHub
-_Github is a collaboration platform for developers that offers "version control" features for staging and tracking changes to code and related documents._
+_GitHub is a collaboration platform for developers that offers "version control" features for staging and tracking changes to code and related documents._
 
 ##  Why Use This Tool
 - Before GitHub, OSC kept most files in personal Google Drives.  This created access and continuity issues for projects over time!
