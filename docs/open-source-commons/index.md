@@ -1,3 +1,9 @@
+---
+title: Open Source Commons
+nav_order: 1
+has_children: true
+---
+
 # Welcome to the Open Source Commons!
 _New volunteers, we're so glad you're here!_
 
