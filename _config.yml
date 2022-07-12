@@ -3,6 +3,9 @@ description: Information about Salesforce.org Open Source Commons and Community 
 timezone: America/Chicago
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sfdo-community-sprints.GitHub.io" # the base hostname & protocol for your site, e.g. http://example.com
+aux_links:
+  "SFDO Open Source Commons on GitHub":
+    - "//github.com/SFDO-Community-Sprints/sfdo-community-sprints.github.io/"
 
 # Information on theme https://just-the-docs.GitHub.io/just-the-docs/
 remote_theme: just-the-docs/just-the-docs
