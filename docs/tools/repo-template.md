@@ -1,6 +1,6 @@
 ---
 parent: Tooling
-title: *Template* for OSC Project Repos
+title: Template for OSC Project Repos
 nav_order: 99
 ---
 Copy and paste the markdown below into your project's Readme, then update with your project's tooling details.
