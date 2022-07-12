@@ -17,4 +17,4 @@ Zoom is the videoconferencing tool used for OSC projects and events. [Download t
 Use the Trailblazer Community to discuss projects in a larger community forum.  The best place to get started is [Open Source Commons and Community Sprints](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000GwVKSA0?tab=discussion&sort=LAST_MODIFIED_DATE_DESC).  Many project teams also have their own Chatter groups in the Trailblazer Community.
 
 ## Twitter
-Find social posts with the hashtag #SFDOsprint,
+Find social posts with the hashtag #SFDOsprint.
