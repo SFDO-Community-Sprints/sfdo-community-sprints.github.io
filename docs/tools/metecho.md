@@ -5,7 +5,7 @@ parent: Tooling
 
 # Metéchō
 
-[Metéchō](https://metecho.herokuapp.com/projects) is a Salesforce.org, Open Source Commons, Web-based tool that makes it easier for you to view, test, and contribute to Salesforce Projects that live in the Salesforce platform without learning [GitHub](https://lab.github.com/) or [Salesforce Command Line](https://developer.salesforce.com/tools/sfdxcli).
+[Metéchō](https://metecho.herokuapp.com/projects) is a Salesforce.org, Open Source Commons, Web-based tool that makes it easier for you to view, test, and contribute to Salesforce Projects created for the Salesforce platform without requiring knowledge  of [GitHub](https://lab.github.com/) or [Salesforce Command Line](https://developer.salesforce.com/tools/sfdxcli).
 
 Pronunciation: “Met” rhymes with “bet.” “Echo” as in the reflection of sound waves.
 
@@ -13,25 +13,26 @@ Pronunciation: “Met” rhymes with “bet.” “Echo” as in the reflection 
 
 ##  Why is Metéchō used
 
-Metéchō combines all the power of the GitHub code repositorie and Salesforce scratch orgs and wraps it into a Web site. No need to install anything on your computer to get something from code into a working Salesforce scratch org. Metecho makes it easy to:
+Metéchō combines all the power of the GitHub code repository and Salesforce scratch orgs and wraps it into a Web site. There is no need to install anything on your computer to get something from code into a working Salesforce scratch org. Metéchō makes it easy to:
 
-- Takes Salesforce code and metadata that has been configured with [CumulusCI](https://cumulusci.readthedocs.io/en/latest/intro.html) and builds an org with other package dependencies, data, and org configurations.
+- Takes Salesforce code and metadata that has been configured with [CumulusCI](https://cumulusci.readthedocs.io/en/latest/intro.html) and builds an org with other package dependencies, data, and org configurations. All with the click of a button.
 
-- Create Epics from GitHub issues
+- Create Epics from GitHub issues. An epic is like a story of something you need to build into a project
 
-- Assign developers and testers to epic task for declaritive changes made in scratch orgs
+- Assign developers and testers to bite sized tasks within an epic for declarative changes made in scratch orgs
 
-- Automatically creates branches for epic task
+- Automatically creates Github branches for epic task
 
-- Automatically creates GitHub branches
+- Automatically creates GitHub branches for tasks
 
-- Retrieves declaritive, clicks-not-code changes from Metéchō scratch orgs 
-to GitHub code
+- Retrieves declarative, clicks-not-code, changes from Metéchō scratch orgs to GitHub code
 
-- Regualate access to metecho through GitHub
+- Regulate access to Metéchō through GitHub
 
 ## Installation and Setup
 
-
+There is no need to install anything (other than a Web browser) to use Metéchō. All that is needed is access give through the Open Source Commons.
 
 ## Going Deeper
+
+The following is a brief walk-through of Metéchō created by the Open Source Commons Ombudsman Cloud Care team. 
