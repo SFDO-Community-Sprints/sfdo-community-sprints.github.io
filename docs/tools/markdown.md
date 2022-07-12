@@ -17,7 +17,27 @@ Markdown, by it's nature is text based. You do not any additional software (othe
 
 ## Going Deeper
 
-How about a quick example of what markdown looks like
+There are many good resources on how to uses markdown. Check out [the markdown.orgs guide](https://www.markdownguide.org) for more information. [A page on syntax is particularly useful](https://www.markdownguide.org/basic-syntax/).
 
-`
+Here is a quick example of what markdown looks like:
 
+```
+# Creates a heading level 1 (one per page please)
+
+Paragraph happens naturally on clicking return
+
+## Creates a heading level 2
+
+[Links look like this](https://www.google.com)
+
+```
+
+Here is what the above code looks like when markdown is evaluated:
+
+# Creates a heading level 1 (one per page please)
+
+Paragraph happens naturally on clicking return
+
+## Creates a heading level 2
+
+[Links look like this](https://www.google.com)
