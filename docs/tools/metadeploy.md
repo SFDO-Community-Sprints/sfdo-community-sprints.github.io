@@ -7,7 +7,7 @@ parent: Tooling
 
 Think of MetaDEPLOY as the Open Source Common App Exchange for installing our application. Where MetaDEPLOY goes beyond the app exchange is it ability to help you configure your Salesforce org to optimally run our projects with any pre or post installation needs.
 
-[Checkout our current installable projects](https://install.salesforce.org/products#open-source-commons){: .btn }
+[Checkout our current installable projects](https://install.salesforce.org/products#open-source-commons){: .btn .btn-outline }
 
 It should be noted that MetaDEPLOY is an [open source project of it's own](https://install.salesforce.org/products#open-source-commons) and can be used by anyone.
 
