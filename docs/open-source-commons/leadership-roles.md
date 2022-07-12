@@ -1,6 +1,7 @@
 ---
 parent: Open Source Commons
 has_children: false
+title: Leadership Roles
 ---
 
 # Project/Team Leadership Roles and Responsibilities
