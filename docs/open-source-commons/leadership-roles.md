@@ -4,11 +4,14 @@ has_children: false
 title: Leadership Roles
 ---
 # Roles and Responsibilities
+{: .no_toc}
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
    {:toc}
+   
 ## Project/Team Leadership Roles and Responsibilities
 
 ### Highly Recommended:
