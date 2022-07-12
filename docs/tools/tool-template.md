@@ -1,5 +1,5 @@
 --- 
-title: Tool Name
+title: 
 parent: Tooling
 nav_exclude: true
 ---
