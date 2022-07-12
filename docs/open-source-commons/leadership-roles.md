@@ -117,7 +117,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 ## Sprint Day Leadership Roles
 
-### Sprinting Lead
+#### Sprinting Lead
 
 -   Specific Goals and tasks for 2 days
 
@@ -131,7 +131,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Makes decisions to keep things going
 
-### Volunteer Onboarding/Wrangling
+#### Volunteer Onboarding/Wrangling
 
 -   Train on tools we use
 
@@ -145,7 +145,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Virtual/In-Person
 
-### Reporting Back - Scribe/Note Taker
+#### Reporting Back - Scribe/Note Taker
 
 -   Verbal reports back to the group
 
@@ -155,7 +155,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   A Beginner-appropriate role(s)
 
-### Content Creating
+#### Content Creating
 
 -   Doc Writing
 
@@ -163,11 +163,11 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Content Creator
 
-### QA Leading
+#### QA Leading
 
 Writes and updates testing protocols. Wrangles testers and coordinates test feedback.
 
-### Testing
+#### Testing
 
 -   Executes tests
 
@@ -175,7 +175,7 @@ Writes and updates testing protocols. Wrangles testers and coordinates test feed
 
 -   Appropriate role for a beginner or anyone!
 
-### Subject Matter Experts
+#### Subject Matter Experts
 
 -   Validates ideas/design of project
 
@@ -183,7 +183,7 @@ Writes and updates testing protocols. Wrangles testers and coordinates test feed
 
 -   Authors user stories
 
-### Architecting
+#### Architecting
 
 -   Designs Salesforce/Technical architecture
 
@@ -191,9 +191,8 @@ Writes and updates testing protocols. Wrangles testers and coordinates test feed
 
 -   Creates sustainable architecture
 
-### Code Writing
+#### Code Writing
 
 Creates technical requirements and codes. Builds and customizes apps to work on top/in conjunction with Salesforce platform.
 
 ![](https://lh5.googleusercontent.com/IPubivVSv16IeS4j0nekVsa3-73g4PsZH3NP0u5EY-3rPzdFdYsW0UZF07yxlYh8S2bDPLZBcqkU-FiS06LGi3P7ZuP2oEtK9EnyQzWJ0zGm-ii-cg6Vbdtsgnx1bhNY0SbzKGFMgaJO9prW_kqV0wY)
-==============================================================================================================================================================================================
