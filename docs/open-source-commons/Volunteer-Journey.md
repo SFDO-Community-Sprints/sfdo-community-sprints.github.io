@@ -1,3 +1,9 @@
+---
+title: Volunteer Journey
+parent: Open Source Commons
+has_children: false
+---
+
 Hooray!  We are so glad that you are here!
 
 Perhaps you have just learned about Open Source Commons are you are interested in learning more.  Perhaps you are attending a Sprint and want to learn where you fit in.  Or, perhaps you are ready to take your commitment to the next level.  Keep reading to learn about three types of participation in the OSC Commons program.  Some people move between these roles and some stay in one for a long time.  All experiences and scenarios are welcome!
