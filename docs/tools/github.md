@@ -11,7 +11,7 @@ _GitHub is a collaboration platform for developers that offers "version control"
 - Before GitHub, OSC kept most files in personal Google Drives.  This created access and continuity issues for projects over time!
 - Now, all OSC projects have GitHub repositories within a common GitHub Organization
 - GitHub is the industry standard for collaborating on code-based projects (apps, automation, etc)
-- GitHub is also be useful for projects focusing on docs, marketing, community
+- GitHub is also useful for projects focusing on docs, marketing, community
 - New volunteers can scroll through active project repo's to find a way to engage
 
 ## Installation and Setup
