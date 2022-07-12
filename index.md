@@ -7,6 +7,8 @@ permalink: /
 
 # Salesforce.org Open Source Commons & Community Sprints
 
+Learn more about our work and the tools we use by following the links in the sidebar.
+
 ## Open Source Commons Vision
 Open Source Commons is a community of mission-driven individuals working together to solve the world's most challenging problems. We do this by actively listening to each other, educating each other, and bringing our passion, experience, and technical know-how to projects that can be replicated and shared throughout the Salesforce ecosystem. We work to remove barriers to entry so that everyone can be a part of this vision.
 
