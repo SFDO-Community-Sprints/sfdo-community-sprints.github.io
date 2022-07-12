@@ -3,22 +3,27 @@ parent: Open Source Commons
 has_children: false
 title: Leadership Roles
 ---
+# Roles and Responsibilities
+## Table of Contents
+{: .no_toc .text-delta }
 
-# Project/Team Leadership Roles and Responsibilities
+1. TOC
+   {:toc}
+## Project/Team Leadership Roles and Responsibilities
 
-## Highly Recommended:
+### Highly Recommended:
 
-### Steering Committee
+#### Steering Committee
 
 Oversee the entire project team, holding vision and direction for the project. Work with project management to schedule calls and chair meetings. Liaise between Salesforce.org staff teams and volunteer project teams. Share institutional knowledge, including providing historical context on why decisions were made and have a solid understanding of where all documents and folders live.  
 
 (For Open Source Commons projects, there are additional requirements, including that the steering committee consist of people from different organizations.)
 
-### Project Management  
+#### Project Management  
 
 Work closely with various technical and non-technical team members to help ensure that key deliverables are being completed within the agreed upon timeline. Responsibilities include helping to facilitate and document calls, creating and maintaining project plans, identifying owners of key tasks and much more.
 
-### Development Management
+#### Development Management
 
 -   Coordinates code work
 
@@ -28,9 +33,9 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Code review
 
-## Recommended Based on Project Need:
+### Recommended Based on Project Need:
 
-### Product Management
+#### Product Management
 
 -   Backlog grooming
 
@@ -46,7 +51,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Write test protocols
 
-### Volunteer Onboarding 
+#### Volunteer Onboarding 
 
 -   Train on tools we use
 
@@ -54,7 +59,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Sharing a project overview (i.e. roadmap, where we are)
 
-### Marketing
+#### Marketing
 
 -   Public Facing
 
@@ -68,7 +73,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Demo
 
-### Cross Team Sharing
+#### Cross Team Sharing
 
 -   Attends cross-project meetings
 
@@ -76,7 +81,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Monitors cross-team channels and shares back to project team
 
-### UI/UX Leadership
+#### UI/UX Leadership
 
 -   Testing
 
@@ -86,7 +91,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Concept validation
 
-### Leading Support
+#### Leading Support
 
 -   Answers questions in community
 
@@ -96,7 +101,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Communicates with content leader(s) to prioritize new documents
 
-### Content Management
+#### Content Management
 
 -   Overall content creator
 
@@ -106,7 +111,7 @@ Work closely with various technical and non-technical team members to help ensur
 
 -   Manages and secures login access
 
-### Testing
+#### Testing
 
 -   Executes tests
 
