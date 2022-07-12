@@ -1,6 +1,5 @@
 --- 
 title: Tool Name
-nav_order: 1
 parent: Open Source Commons
 nav_exclude: true
 ---

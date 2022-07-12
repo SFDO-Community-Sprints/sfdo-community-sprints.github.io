@@ -1,6 +1,5 @@
 ---
 title: CumulusCI
-nav_order: 2
 parent: Tooling
 ---
 

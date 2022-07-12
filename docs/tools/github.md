@@ -1,6 +1,5 @@
 ---
 title: GitHub
-nav_order: 1
 parent: Tooling
 ---
 
