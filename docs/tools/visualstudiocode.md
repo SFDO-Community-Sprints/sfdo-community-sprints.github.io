@@ -20,3 +20,7 @@ As VS Code is a free program and Salesforce has invested much time in making ext
 
 ## Going Deeper
 
+Traiheads:
+
+- [Quick Start: Visual Studio Code for Salesforce Development](https://trailhead.salesforce.com/en/content/learn/projects/quickstart-vscode-salesforce)
+
