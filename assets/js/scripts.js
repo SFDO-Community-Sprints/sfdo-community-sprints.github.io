@@ -40,7 +40,7 @@ function setIframeVideo() {
     const contentIFrames = document.querySelectorAll('#main-content iframe');
     let mainContentWidth = getContentWidth(document.getElementById('main-content'));
     contentIFrames.forEach(function (frame) {
-        if (frame.src.includes('youtube.com')) {
+        if (frame.src.includes('youtube.com') || frame.src.includes('vimeo.com')) {
             frame.width = mainContentWidth + 'px';
             frame.height = mainContentWidth * 9 / 16 + 'px';
         }
