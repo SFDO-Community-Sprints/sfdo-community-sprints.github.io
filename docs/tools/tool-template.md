@@ -1,6 +1,6 @@
 --- 
 title: Tool Name
-parent: Open Source Commons
+parent: Tooling
 nav_exclude: true
 ---
 
