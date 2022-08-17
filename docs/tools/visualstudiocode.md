@@ -15,7 +15,7 @@ As VS Code is a free program and Salesforce has invested much time in making ext
 
 1. [Download and Install Visual Studio Code](https://code.visualstudio.com/download) for the operating system of your choice.
 
-2. The Open Source Commons has curated an [extension pack for VS Code](https://github.com/SFDO-Community-Sprints/osc-vscode-extensions) that will install everything you need to get involved with a project.
+2. The Open Source Commons has curated an [extension pack for VS Code](https://marketplace.visualstudio.com/items?itemName=SalesforceOrgOpenSourceCommons.open-source-commons) that will install everything you need to get involved with a project.
 
 
 ## Going Deeper
