@@ -4,6 +4,9 @@ has_children: false
 title: Leadership Roles
 ---
 # Roles and Responsibilities
+
+[Read the PDF](https://github.com/SFDO-Community-Sprints/sfdo-community-sprints.github.io/blob/2497c976b4ce0b60feec397eb253a8e93b08eedd/assets/Commons%20Community%20Team%20Roles.pdf)
+
    
 ## Project/Team Leadership Roles and Responsibilities
 
