@@ -1,10 +1,10 @@
 ---
-title: Open Source Commons
+title: Salesforce.org Commons
 nav_order: 2
 has_children: true
 ---
 
-# Welcome to the Open Source Commons!
+# Welcome to the [Salesforce.org Commons!](https://www.salesforce.org/resources/open-source-commons/)
 _New volunteers, we're so glad you're here!_
 
 
