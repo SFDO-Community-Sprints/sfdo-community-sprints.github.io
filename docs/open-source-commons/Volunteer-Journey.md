@@ -1,6 +1,6 @@
 ---
 title: Volunteer Journey
-parent: Open Source Commons
+parent: Salesforce.org Commons
 has_children: false
 ---
 
