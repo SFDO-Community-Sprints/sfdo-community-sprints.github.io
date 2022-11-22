@@ -1,5 +1,5 @@
 ---
-parent: Open Source Commons
+parent: Salesforce.org Commons
 has_children: false
 title: Leadership Roles
 ---
