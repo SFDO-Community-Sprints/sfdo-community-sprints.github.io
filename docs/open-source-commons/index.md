@@ -1,10 +1,12 @@
 ---
-title: Salesforce.org Commons
+title: Volunteer
 nav_order: 2
 has_children: true
 ---
 
-# Welcome to the [Salesforce.org Commons!](https://www.salesforce.org/resources/open-source-commons/)
+# Work in Progress - excuse the mess
+
+## Welcome to the [Salesforce.org Commons!](https://www.salesforce.org/resources/commons/)
 _New volunteers, we're so glad you're here!_
 
 
