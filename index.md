@@ -26,5 +26,5 @@ Sprinty the t-rex is the official community mascot of the Commons. Sprinty (Pron
 Since then, Sprinty continues to join in the fun at Community Sprint events, and motivate Sprinters to keep up their amazing work. Be sure to grab a hug, a coveted photo, or a high five from Sprinty at an upcoming event.
 
 <p align="center">
-<img src="assets/images/Shun_Sprinty_2022.png" height="750">
+<img src="assets/images/Shun_Sprinty_2022.png" height="75%">
 </p>
