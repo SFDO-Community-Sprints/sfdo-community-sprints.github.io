@@ -1,5 +1,5 @@
 ---
-title: Find an Existing Project Team
+title: Find an Existing Project
 parent: Volunteer
 has_children: false
 ---
