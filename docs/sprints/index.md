@@ -38,9 +38,23 @@ Some examples of what you can expect to participate in are:
 - Detailed FAQ and other support materials
 - Suggested ways to ready your computer and create an appropriate Salesforce environment for testing, taking screenshots, etc.
 
-Why should I attend a Community Sprint Event?
+# Why should I attend a Community Sprint Event?
+*"The opportunity to grow our understanding of best practices and how people are pushing the boundaries of this platform is incredibly valuable" 
+Toby Ward - Senior Salesforce Consultant, Galvin Technologies*
 
+First off, it’s fun! But it’s also a great way to connect with other Salesforce users, admins, employees in person, and learn more about community built solutions that help Nonprofits and Schools use Salesforce more effectively. Here are 5 reasons why you should attend (and very helpful if you need to ask for permission to attend):
 
+1. **Professional development**: Expand your knowledge of what’s possible to accomplish in Salesforce and with Salesforce.org products. Sprints put you in the room with other Nonprofit and Education admins and developers, and Consulting Partners that use the same technology to solve challenges that all organizations face. There is simply no better learning and problem-solving opportunity available at any price. In fact, over 90% of Commons and Sprint participants report an increase in professional development. 
+
+2. **Connect with local Salesforce Community and Salesforce Employees**:
+Networking: Get to know nonprofit and higher-ed Salesforce administrators, developers, architects, consultants, Salesforce employees, and other experts in a setting where you are not passively absorbing information, but rather, actively working together. After participating in the Commons program and Sprint events, 95% say they feel better connected to other members of the Salesforce community.
+Engage with Trailblazer Community in person: It’s easier to troubleshoot Salesforce challenges when you’re not alone. At the Sprint, you’ll meet other admins and end-users, including those you’ve come to know virtually or via the Trailblazer Community, Twitter, Stack Exchange, etc.. This translates to direct value for nonprofit organizations so that when the “going gets tough” you can “phone a friend” for help or advice.
+
+3. **Find existing solutions to reduce inefficiencies and implementation costs**: By connecting with other participants, you’ll be exposed to solutions already in progress by the global Commons community. You can expect to learn about existing solutions you can bring back to your organization today, such as Grassroots Mobile Survey for collecting data in the field, Nonprofit Salesforce How-To Series videos on YouTube, or Declarative Lookup Rollup Summaries which is used by over 23,000 Salesforce customers to roll-up Salesforce data across non parent/child objects. In a recent survey, 96% of participants feel that solutions created by the Commons program foster greater efficiency and improve how work gets done in the Nonprofit and Education sectors.
+
+4. **Your skills are needed**: Sprint events are a way to leverage the collective knowledge of the community for impact that is “greater than the sum of our parts.” Since 2015, over 2000+ global community members have participated at more than 40 Sprint events, contributing hundreds of resources and solutions. When you attend the Sprint, you’ll bring your Salesforce and professional skills to create solutions for common problems faced by other Nonprofits and Schools, that are then shared back into the community. This helps other Nonprofit organizations and Schools see real impact via their investments in Salesforce. All skills are needed and everyone is welcome to attend!
+
+5. **Unique hands-on interaction**: Community Sprint events have been held in America approx 3 times a year since 2015, and are very popular. We typically host 100 - 150 participants (pre-covid), the January London Sprint is the first opportunity for the EMEA community to experience a two-day full Community Sprint event in person. You don’t want to miss it - this is not a sales conference but a *hands-on* conference.  Your time will be spent “in the platform” rather than watching presentations and speakers. There’s a lot less “take my word for it” and MUCH more “let me show you!” Think workshop not webinar.
 
 # How can I find upcoming events?
 
