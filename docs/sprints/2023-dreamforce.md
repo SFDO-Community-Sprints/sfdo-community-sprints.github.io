@@ -1,6 +1,6 @@
 ---
 title: Dreamforce, 2023
-nav_order: 2
+nav_order: 1
 parent: Community Sprints
 ---
 
