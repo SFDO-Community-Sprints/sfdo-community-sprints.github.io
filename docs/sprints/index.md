@@ -1,5 +1,5 @@
 ---
-title: Community Sprints
+title: Community Sprints & Events
 nav_order: 3
 has_children: true
 ---
