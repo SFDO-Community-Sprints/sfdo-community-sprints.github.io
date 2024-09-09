@@ -66,7 +66,7 @@ Engage with Trailblazer Community in person: It’s easier to troubleshoot Sales
 
 Easy! You can stay in the know about all upcoming events by joining us on the Trailblazer Community, following on social channels, and right here on this site! Just look at the navigation menu on the left to see both upcoming and past Sprint events, including updates on how the event went or registration info. 
 - [Join the Trailblazer Community Group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000GwVK#discussion)
-- Follow Cori (Commons Senior Program Manager) on [Twitter](https://twitter.com/CoriOPaluck) and [LinkedIn](https://www.linkedin.com/in/coriobrienpaluck/).
+- Follow Cori O'Brien (Director, Commons & Nonprofit Community) on [Twitter](https://twitter.com/CoriOPaluck) and [LinkedIn](https://www.linkedin.com/in/coriobrienpaluck/).
 
 <p align="center">
 <img src="images/SFDOCommons_Sprint_Badge.png">
