@@ -7,6 +7,12 @@ has_children: true
 
 # Ideate. Create. Share. Learn more about Community Sprints
 
+## Upcoming Events:
+- Global Virtual Sprint, September 26th & 27th, 2024 - [Register now](https://invite.salesforce.com/virtualcommonscommunitysprint?_ga=2.189178349.754051089.1725906922-1372063299.1725906922)
+- Commons Affordable Housing Sprint, Newcastle upon Tyne, October 7th & 8th, 2024 - [Register now](https://commonsaffordablehousingsprint-0a85.splashthat.com/)
+- Commons Community Sprint, November 13th & 14th, Chicago, IL - Save the date!
+
+
 Community Sprint Events are about coming together to collaborate with organizations like yours to build solutions to address everyday challenges. By attending a Sprint, you'll come together in person, virtually, and via Slack to work on projects that are important to you and will make a real difference for Nonprofits and Schools using Salesforce technologies.
 
 When you attend a Sprint event, expect to spend your time working alongside other Salesforce.org community volunteers (Customers, Partners, and Employees) on specifc goals prioritized by the community. Over 90% of participants say they learned new skills by participating!
