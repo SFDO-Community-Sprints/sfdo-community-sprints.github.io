@@ -13,6 +13,11 @@ What’s a [Community Sprint](https://sfdo-community-sprints.github.io/docs/spri
 
 Why should I join? Sprints are unlike anything else in the Salesforce community. You are encouraged to use your Salesforce and professional skills to collaborate and build nonprofit + education community-led apps, resources, and solutions. Not to mention they are a super fun way to connect with other local Salesforce users, admins, and developers!
 
+Can I still attend if I don’t know anything about writing code?
+
+Absolutely! Bringing an idea to life takes much more than just a skilled developer and there are so many ways to contribute to a Community Sprint that has nothing to do with writing code. The beauty of a Community Sprint is that we all come together to work toward the same goal. You can help define use cases and best practices or help to simplify hard-to-grasp concepts. You can share your organization's story and how you use the products. You can write new or improve an existing product or best practice documentation, write or edit scripts for upcoming NPSP videos, or even help test a new tool. Your level of coding or configuration experience is not a barrier!
+
+
 Celebrate 10-year's of Sprinting in 2025! There’s never been a more exciting time to engage to build community-led resources, apps, and solutions on top of the world’s #1 CRM. Find an [upcoming event](https://sfdo-community-sprints.github.io/docs/sprints/) and join us today!
 
 <p align="center">
