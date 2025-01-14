@@ -3,7 +3,7 @@ title: Community Sprints & Events
 nav_order: 3
 has_children: true
 ---
-<img src="images/Nov_2022_Community_Sprint.jpg" width="100%" alt="Group shot of November 2022 Sprint event attendees all wearing matching blue t-shirts. Sprinty the t-rex mascot is also in the picture">
+<img src="images/2.jpeg" width="100%" alt="Group shot of November 2022 Sprint event attendees all wearing matching blue t-shirts. Sprinty the t-rex mascot is also in the picture">
 
 # Ideate. Create. Share. Learn more about Community Sprints
 
