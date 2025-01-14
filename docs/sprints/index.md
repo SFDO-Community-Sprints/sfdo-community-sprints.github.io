@@ -7,13 +7,32 @@ has_children: true
 
 # Ideate. Create. Share. Learn more about Community Sprints
 
-## Upcoming Events:
-- Global Virtual Sprint, September 26th & 27th, 2024 - [Register now](https://invite.salesforce.com/virtualcommonscommunitysprint?_ga=2.189178349.754051089.1725906922-1372063299.1725906922)
-- Commons Affordable Housing Sprint, Newcastle upon Tyne, October 7th & 8th, 2024 - [Register now](https://commonsaffordablehousingsprint-0a85.splashthat.com/)
-- Commons Community Sprint, November 13th & 14th, Chicago, IL - [Register now](https://invite.salesforce.com/commonscommunitysprint-176f)
+## Upcoming Community Sprint Events - Join in the fun today:
+
+### Confirmed Events - Register or Save-The-Date
+- February 27th, 2025 - Sydney, AU Community Sprint as part of Sydney Agentforce World Tour. Location: Sydney Salesforce Tower. [Register!](https://invite.salesforce.com/communitysprintsydney)
+- March 5th - 6th, 2025 - Community Engagement at [TDX](https://www.salesforce.com/tdx/register/)! Join the Nonprofit Community team onsite and around SFO during TDX. More details to come, and registration for TDX can be found [here](https://www.salesforce.com/tdx/register/).
 
 
-Community Sprint Events are about coming together to collaborate with organizations like yours to build solutions to address everyday challenges. By attending a Sprint, you'll come together in person, virtually, and via Slack to work on projects that are important to you and will make a real difference for Nonprofits and Schools using Salesforce technologies.
+### Unconfirmed But Planned Events
+
+*Unconfirmed event dates, venues, and locations are subject to change or cancellation. Additional events may be added. Please take this into consideration before booking any travel arrangements.*
+
+- March, 2025 - Community Sprint & Learning Day as part of DC Agentforce World Tour. Exact date/location TBA.
+- May, 2025 - Community Sprint & Learning day as part of NYC Agentforce World Tour. Location: NYC Salesforce Tower. Exact date TBA.
+- June, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement June 6th, and Community Sprint & Learning Day as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. Exact date TBA.
+- June, 2025 - Community Day, Amsterdam, NL. New and looking for local Partner sponsors! Exact date/location TBA.
+- June, 2025 - Community Day, Paris, FR. New and looking for local Partner sponsors! Exact date/location TBA.
+- July, 2025 - Virtual 2-Day Community Sprint. Exact date TBA.
+- September, 2025 - Community Sprint & Learning Day, Vancouver, BC. Exact date/location TBA.
+- October 14th - 17th, 2025 - Dreamforce Community engagement. Exact activities/date TBA.
+- November, 2025 - Community Sprint & Learning Day, Denver, CO. Exact date/location TBA.
+- November, 2025 - UK Affordable Housing Sprint. Location: Newcastle, UK. Exact date TBA.
+- January, 2026 - Virtual 2-Day Community Sprint. Exact date TBA.
+
+
+# What are Community Sprints?
+Community Sprint Events are about coming together to collaborate with organizations like yours to build solutions to address everyday challenges. By attending a Sprint, you'll come together in person, virtually, and via Slack to work on projects that are important to you and will make a real difference for Nonprofits and Schools using Salesforce technologies. 
 
 When you attend a Sprint event, expect to spend your time working alongside other Salesforce.org community volunteers (Customers, Partners, and Employees) on specifc goals prioritized by the community. Over 90% of participants say they learned new skills by participating!
 
