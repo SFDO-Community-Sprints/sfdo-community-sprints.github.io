@@ -12,15 +12,16 @@ has_children: true
 ### Confirmed Events - Register or Save-The-Date
 - February 27th, 2025 - Sydney, AU Community Sprint as part of Sydney Agentforce World Tour. Location: Sydney Salesforce Tower. [Register!](https://invite.salesforce.com/communitysprintsydney)
 - March 5th - 6th, 2025 - Community Engagement at [TDX](https://www.salesforce.com/tdx/register/)! Join the Nonprofit Community team onsite and around SFO during TDX. More details to come, and registration for TDX can be found [here](https://www.salesforce.com/tdx/register/).
+- March 17th & 18th, 2025 - Community Sprint as part of DC Agentforce World Tour. Location: Salesforce DC Office. [Register today!](https://invite.salesforce.com/communitysprintdc)
 
 
 ### Unconfirmed But Planned Events
 
 *Unconfirmed event dates, venues, and locations are subject to change or cancellation. Additional events may be added. Please take this into consideration before booking any travel arrangements.*
 
-- March, 2025 - Community Sprint & Learning Day as part of DC Agentforce World Tour. Exact date/location TBA.
-- May, 2025 - Community Sprint & Learning day as part of NYC Agentforce World Tour. Location: NYC Salesforce Tower. Exact date TBA.
-- June, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement June 6th, and Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. Exact date TBA.
+- May, 2025 - Community Sprint as part of NYC Agentforce World Tour. Location: NYC Salesforce Tower. Exact date TBA.
+- June 6, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement
+- June 9th, 2025 (and maybe 10th) - Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. 
 - June, 2025 - Community Day, Amsterdam, NL. New and looking for local Partner sponsors! Exact date/location TBA.
 - June, 2025 - Community Day, Paris, FR. New and looking for local Partner sponsors! Exact date/location TBA.
 - July, 2025 - Virtual 2-Day Community Sprint. Exact date TBA.
