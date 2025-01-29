@@ -28,7 +28,7 @@ has_children: true
 - September, 2025 - Community Sprint & Learning Day, Vancouver, BC. Exact date/location TBA.
 - October 14th - 17th, 2025 - Dreamforce Community engagement. Exact activities/date TBA.
 - November, 2025 - Community Sprint & Learning Day, Denver, CO. Exact date/location TBA.
-- November, 2025 - UK Affordable Housing Sprint. Location: Newcastle, UK. Exact date TBA.
+- November, 2025 - UK Affordable Housing Sprint. Exact date/location TBA.
 - January, 2026 - Virtual 2-Day Community Sprint. Exact date TBA.
 
 
