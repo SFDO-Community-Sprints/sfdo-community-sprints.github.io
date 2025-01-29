@@ -22,8 +22,8 @@ has_children: true
 - May, 2025 - Community Sprint as part of NYC Agentforce World Tour. Location: NYC Salesforce Tower. Exact date TBA.
 - June 6, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement
 - June 9th, 2025 (and maybe 10th) - Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. 
-- June, 2025 - Community Day, Amsterdam, NL. New and looking for local Partner sponsors! Exact date/location TBA.
-- June, 2025 - Community Day, Paris, FR. New and looking for local Partner sponsors! Exact date/location TBA.
+- June, 2025 - Community Day, Amsterdam, NL. New and looking for local Partner sponsors! Aiming for June 17th, but exact date/location TBA.
+- June 19th, 2025 - Community Day, Paris, FR. New and looking for local Partner sponsors! Location: Salesforce Paris office.
 - July, 2025 - Virtual 2-Day Community Sprint. Exact date TBA.
 - September, 2025 - Community Sprint & Learning Day, Vancouver, BC. Exact date/location TBA.
 - October 14th - 17th, 2025 - Dreamforce Community engagement. Exact activities/date TBA.
