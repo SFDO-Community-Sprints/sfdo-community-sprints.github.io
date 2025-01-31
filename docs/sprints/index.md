@@ -12,7 +12,7 @@ has_children: true
 ### Confirmed Events - Register or Save-The-Date
 - February 27th, 2025 - Sydney, AU Community Sprint as part of Sydney Agentforce World Tour. Location: Sydney Salesforce Tower. [Register!](https://invite.salesforce.com/communitysprintsydney)
 - March 5th - 6th, 2025 - Community Engagement at [TDX](https://www.salesforce.com/tdx/register/)! Join the Nonprofit Community team onsite and around SFO during TDX. More details to come, and registration for TDX can be found [here](https://www.salesforce.com/tdx/register/).
-- March 17th & 18th, 2025 - Community Sprint as part of DC Agentforce World Tour. Location: Salesforce DC Office. [Register today!](https://invite.salesforce.com/communitysprintdc)
+- March 17th & 18th, 2025 - Community Sprint as part of DC Agentforce World Tour. Location: Salesforce McLean Office in McLean, VA. [Register today!](https://invite.salesforce.com/communitysprintdc)
 
 
 ### Unconfirmed But Planned Events
