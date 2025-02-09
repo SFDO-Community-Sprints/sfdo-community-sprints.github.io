@@ -4,12 +4,13 @@ nav_order: 1
 description: ""
 permalink: /
 ---
-<p align="center">
-<img src="assets/images/10YearAnniversary10number.png" width="30%">
-</p>
 
 # Welcome to the Open Source Commons! 
 The Commons program provides a platform for our community to address technology challenges in the Nonprofit and Education sectors through open source Salesforce innovation, but it’s so much more than that. Through Community Sprint events, like hack-a-thons, and other engagement spaces like Slack, our Nonprofit community defines challenges and builds open-source solutions to share with each other. For almost 20 years, Nonprofit Trailblazers just like you have contributed their Salesforce and professional skills to help solve common challenges, so that others could see more success with the power of Salesforce. Today, the Commons Community team continues that legacy, and drives impact through mentorship and learning opportunities.
+
+<p align="center">
+<img src="assets/images/10YearAnniversary10number.png" width="30%">
+</p>
 
 ## Get Involved at a Community Sprint
 It's the 10th anniversary of Community Sprinting! What’s a [Community Sprint](https://sfdo-community-sprints.github.io/docs/sprints/)? Originally starting in America in 2015, Community Sprints are the meet-ups (either in-person or virtually) portion of the Salesforce Commons Program, where we gather our engaged community of Customers, Partners, and Salesforce employees for 1-2 days of challenge discussion, solution brainstorming, and getting hands-on to build impactful Salesforce solutions to solve common day to day technology challenges that affect Nonprofit organizations and Schools. We do this by actively listening to each other, educating each other, and bringing our passion, Salesforce and professional experience, and technical know-how to projects that can be dreamed up, built by the community (you!), and then shared as open source solutions throughout the Salesforce ecosystem.
