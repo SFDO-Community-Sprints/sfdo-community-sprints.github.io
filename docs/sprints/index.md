@@ -89,5 +89,5 @@ Easy! Bookmark this page and review the list of upcoming and planned events at t
 - Follow Cori O'Brien (Director, Commons & Nonprofit Community) on [Twitter](https://twitter.com/CoriOPaluck) and [LinkedIn](https://www.linkedin.com/in/coriobrienpaluck/).
 
 <p align="center">
-<img src="images/SFDOCommons_Sprint_Badge.png">
+<img src="images/10YearAnniversaryBadge.png">
 </p>
