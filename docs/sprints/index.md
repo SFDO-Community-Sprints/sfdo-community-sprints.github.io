@@ -10,8 +10,6 @@ has_children: true
 ## Upcoming Community Sprint Events - Join in the fun today:
 
 ### Confirmed Events - Register or Save-The-Date
-- February 27th, 2025 - Sydney, AU Community Sprint as part of Sydney Agentforce World Tour. Location: Sydney Salesforce Tower. [Register!](https://invite.salesforce.com/communitysprintsydney)
-- March 5th - 6th, 2025 - Community Engagement at [TDX](https://www.salesforce.com/tdx/register/)! Join the Nonprofit Community team as we combine forces with the San Francisco Nonprofit User Group to co-host #bobablazers X Coffee Chat IRL! Join us for Boba and Coffee March 6th, from 2pm - 3pm PT. Location: SPUR. [RSVP today!](https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-nonprofit-user-group-san-francisco-united-states-presents-bobablazers-x-coffee-chat-irl-tdx-2025/cohost-salesforce-nonprofit-user-group-san-francisco-united-states) Registration for TDX can be found [here](https://www.salesforce.com/tdx/register/).
 - March 17th & 18th, 2025 - Community Sprint as part of DC Agentforce World Tour. Location: Salesforce McLean Office in McLean, VA. [Register today!](https://invite.salesforce.com/communitysprintdc)
 - March 19th, 2025 from 8am - 10am ET - Nonprofit Networking Breakfast as part of DC Agentforce World Tour. Location: On campus in Nonprofit room. No separate reg, [add to your calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWEyMW8zdGRlYXVqbjNsazQ5ZHBmdGc1dmEgY192ZGRlMXF0ajdhNjk2NzMxZ3BwNzAzODJpa0Bn&tmsrc=c_vdde1qtj7a696731gpp70382ik%40group.calendar.google.com)!
 
@@ -20,7 +18,7 @@ has_children: true
 
 *Unconfirmed event dates, venues, and locations are subject to change or cancellation. Additional events may be added. Please take this into consideration before booking any travel arrangements.*
 
-- May, 2025 - Community Sprint as part of NYC Agentforce World Tour. Location: NYC Salesforce Tower. Exact date TBA.
+- *May, 2025 - NYC Sprint **CANCELLED** due to lack of venue.*
 - June 6, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement
 - June 9th, 2025 (and maybe 10th) - Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. 
 - June, 2025 - Community Day, Amsterdam, NL. New and looking for local Partner sponsors! Aiming for June 17th, but exact date/location TBA.
