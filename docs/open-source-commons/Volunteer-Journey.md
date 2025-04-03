@@ -1,6 +1,6 @@
 ---
 title: Volunteer-Journey
-parent: Volunteer
+parent: Community Sprints & Events
 has_children: false
 ---
 
