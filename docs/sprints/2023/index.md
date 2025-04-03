@@ -1,5 +1,6 @@
 ---
 title: 2023
+nav_order: 3
 parent: Community Sprints & Events
 has_children: true
 ---
