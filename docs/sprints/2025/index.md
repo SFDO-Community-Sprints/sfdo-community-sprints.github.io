@@ -1,5 +1,6 @@
 ---
 title: 2025
+nav_order: 1
 parent: Community Sprints & Events
 has_children: true
 ---
