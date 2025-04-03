@@ -10,8 +10,6 @@ has_children: true
 ## Upcoming Community Sprint Events - Join in the fun today:
 
 ### Confirmed Events - Register or Save-The-Date
-- March 17th & 18th, 2025 - Community Sprint as part of DC Agentforce World Tour. Location: Salesforce McLean Office in McLean, VA. [Register today!](https://invite.salesforce.com/communitysprintdc)
-- March 19th, 2025 from 8am - 10am ET - Nonprofit Networking Breakfast as part of DC Agentforce World Tour. Location: On campus in Nonprofit room. No separate reg, [add to your calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWEyMW8zdGRlYXVqbjNsazQ5ZHBmdGc1dmEgY192ZGRlMXF0ajdhNjk2NzMxZ3BwNzAzODJpa0Bn&tmsrc=c_vdde1qtj7a696731gpp70382ik%40group.calendar.google.com)!
 - June 6, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement
 - June 9th, 2025 (and maybe 10th) - Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. 
 - June 17th, 2025 - Community Day, Amsterdam, NL. New type of event to bring local Nonprofit organizations and partners together for networking, an innovation workshop, and hands-on-training. 
