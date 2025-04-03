@@ -1,5 +1,7 @@
 ---
-title: Commons Community Sprint FAQ
+title: Volunteer-Journey
+parent: Volunteer
+has_children: false
 ---
 
 Hooray!  We are so glad that you are here! 🩵 
