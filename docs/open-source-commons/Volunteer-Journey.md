@@ -50,7 +50,7 @@ Nonprofit Products:
         
 NPSP:
 * Create an [NPSP](https://www.salesforce.com/nonprofit/) Trial org
-* Create an NPSP Trailhead Playground
+* [Set Up a Nonprofit Success Pack Trial for Trailhead](https://trailhead.salesforce.com/content/learn/projects/set-up-a-nonprofit-success-pack-trial-for-trailhead)
 * [Getting Started with Salesforce and the Nonprofit Success Pack (NPSP) - Users](https://trailhead.salesforce.com/users/sfdo/trailmixes/npsp-users)
 * [Getting Started with Salesforce and the Nonprofit Success Pack (NPSP) - Admins](https://trailhead.salesforce.com/users/sfdo/trailmixes/npsp-19281f)
 
