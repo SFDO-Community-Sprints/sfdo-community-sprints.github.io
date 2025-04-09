@@ -1,5 +1,5 @@
 ---
-title: Sprint Event FAQ
+title: Volunteer-Journey
 parent: Volunteer
 has_children: false
 ---
