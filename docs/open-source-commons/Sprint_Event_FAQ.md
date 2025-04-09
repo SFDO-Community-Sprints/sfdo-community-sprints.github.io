@@ -1,5 +1,5 @@
 ---
-title: Volunteer-Journey
+title: Sprint Event FAQ
 parent: Volunteer
 has_children: false
 ---
@@ -106,8 +106,6 @@ By registering for the Sprint, you confirm that you have read and agree to the:
 * Processing of your personal data by Salesforce as described in the [Privacy Statemen](https://www.salesforce.com/company/legal/privacy/)
 * [Salesforce for Nonprofit's](https://www.salesforce.com/nonprofit/) website [Terms of Service](https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/)
 * Open Source Commons Community drafted guidelines
-
-_For our events (in-person or virtual) the event may include breakfast, lunch, refreshments, an optional happy hour and a branded t-shirt valued at $20 (total estimated value $120 per person). By registering for this event, you certify your attendance complies with all applicable laws, rules, regulations, and government ethics policies of your agency, state, locality, and/or employer. The invitation to this event does not allow you to bring an extra guest of your choice. We are pleased to accept payment for all or a portion of this event as permitted or required under your ethics laws and policies and can provide additional information or documentation upon request. We may disclose information concerning your acceptance of this invitation and attendance at the event to your employer and others for legal, regulatory, or compliance purposes. Please note that Salesforce is a government contractor, a registered lobbyist/lobbyist-employer, or otherwise considered an interested party in many jurisdictions._
 
 
 # Have more questions? 
