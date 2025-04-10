@@ -1,7 +1,7 @@
 ---
-title: Dreamforce, 2023
+title: Dreamforce 2023
 nav_order: 4
-parent: 2023
+parent: 2023 Event Highlights
 grandparent: Community Sprints & Events
 ---
 
