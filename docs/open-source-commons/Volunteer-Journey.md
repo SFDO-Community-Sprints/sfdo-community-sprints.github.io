@@ -49,7 +49,7 @@ Nonprofit Products:
 * [Explore Common Components](https://help.salesforce.com/s/articleView?language=en_US&id=release-notes.rn_industries_common.htm&release=244&type=5) 
         
 NPSP:
-* Create an [NPSP](https://www.salesforce.com/nonprofit/) Trial org
+* Create an [NPSP](https://www.salesforce.com/form/sfdo/signup/nonprofit/npsp-free-trial/) Trial org
 * [Set Up a Nonprofit Success Pack Trial for Trailhead](https://trailhead.salesforce.com/content/learn/projects/set-up-a-nonprofit-success-pack-trial-for-trailhead)
 * [Getting Started with Salesforce and the Nonprofit Success Pack (NPSP) - Users](https://trailhead.salesforce.com/users/sfdo/trailmixes/npsp-users)
 * [Getting Started with Salesforce and the Nonprofit Success Pack (NPSP) - Admins](https://trailhead.salesforce.com/users/sfdo/trailmixes/npsp-19281f)
