@@ -7,9 +7,10 @@ has_children: true
 
 # Ideate. Create. Share. Learn more about Community Sprints
 
-## Upcoming Community Sprint Events - Join in the fun today:
+## Upcoming Community Sprints & Events - Join in the fun today:
 
 ### Confirmed Events - Register or Save-The-Date
+- NYC Community Breakfast at Agentforce World Tour NYC, May 21st, 2025. [Add to your Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjljaWlmcG1odmdyamZsNnBvaHA0OWFmMjUgY192ZGRlMXF0ajdhNjk2NzMxZ3BwNzAzODJpa0Bn&tmsrc=c_vdde1qtj7a696731gpp70382ik%40group.calendar.google.com). No reg for the breakfast, but yes for [World Tour](https://www.salesforce.com/events/world-tour/nyc/?_gl=1*1lmo1uk*_gcl_au*MTYxNjk3NDA0Ni4xNzQ0NzQ3MDYy*_ga*MTY3MjIyNDEzOS4xNzQ0NzQ3MDYy*_ga_H6M98GGB18*MTc0NDc1MTg5NC4xLjEuMTc0NDc1MTg5Ny4wLjAuMA..&_ga=2.4987955.1299581222.1744751896-1672224139.1744747062).
 - June 6, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement
 - June 9th, 2025 - Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. [Register today!](https://invite.salesforce.com/londoncommunitysprint)
 - June 17th, 2025 - Community Day, Amsterdam, NL. New type of event to bring local Nonprofit organizations and partners together for networking, an innovation workshop, and hands-on-training. 
