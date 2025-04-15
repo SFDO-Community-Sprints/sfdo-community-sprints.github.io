@@ -11,7 +11,7 @@ has_children: true
 
 ### Confirmed Events - Register or Save-The-Date
 - June 6, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement
-- June 9th, 2025 (and maybe 10th) - Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. 
+- June 9th, 2025 - Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. [Register today!](https://invite.salesforce.com/londoncommunitysprint)
 - June 17th, 2025 - Community Day, Amsterdam, NL. New type of event to bring local Nonprofit organizations and partners together for networking, an innovation workshop, and hands-on-training. 
 - June 19th, 2025 - Community Day, Paris, FR. New type of event to bring local Nonprofit organizations and partners together for networking, an innovation workshop, and hands-on-training. 
 
