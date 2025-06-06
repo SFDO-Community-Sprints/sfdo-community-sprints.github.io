@@ -42,13 +42,20 @@ TBA - Catalog coming soon!
 <img src="assets/images/Sprinty_Codey_2022.png" width="50%">
 </p>
 
-Sprinty the T-Rex is the official community mascot of the Commons. Sprinty (pronouns He/Him) represents inclusivity, comradery, and a can-do attitude. He has been a favorite member of the Sprinting community since 2016 when his dear friend Jace Bryan invited him to the Harvard Community Sprint to highlight that the the Commons is a place where everyone is welcome, even a T-Rex! 
+Sprinty the T-Rex is the official community mascot of the Commons program and specifically our Community Sprint events. Sprinty (pronouns He/Him) represents inclusivity, comradery, and a can-do attitude. He has been a favorite member of the Sprinting community since 2016 when his dear friend Jace Bryan, then a member of the Salesforce.org Open Source Community team, invited him to the Harvard Community Sprint to highlight that the the Commons is a place where everyone is welcome, even a T-Rex! Sprinty was an instant hit in the community, and became a much anticipated attendee at each Sprint. In order to ensure there were no issues with an unofficial "character", Jace worked wtih the community members in the US to transition the beloved mascot to a community volunteer - which is why we call Sprinty our "Official Community Mascot". 
 
 <p align="center">
 <img src="assets/images/Sprinty_Sprinting_2022.jpg" width="75%">
 </p>
 
-Since then, Sprinty continues to join in the fun at Community Sprint events, and motivate Sprinters to keep up their amazing work. Be sure to grab a hug, a coveted photo, or a high five from Sprinty at an upcoming event.
+In the years since, Sprinty continues to join in the fun at Community Sprint events all over the world (he is worn by different regional members of the community most of the time), and motivates Sprinters to keep up their amazing work. If you get a chance to meet Sprinty, be sure to grab a hug, a coveted photo, or a high five from him!
+
+You'll find fun images of Sprinty on most of the materials we create for the Commons and Community Sprint events. As you may already know, the character Astro Lionheart is the Salesforce mascot for our Nonprofit products, and a few years ago the amazingly fun and passionate [Domenique Sillett Buxton](https://www.linkedin.com/in/domenique-sillett-buxton/), (then Senior Creative Director, Characters, Culture, and Trailhead at Salesforce), drew a special graphic of Lionheart holding a Sprinty stuffie to help us promote our unique friend. The history here is that for years and years the Sprinting community had been begging us to try and get Sprinty made into his own stuffie, which wasn't possible unfortunatly, but we now had a very cute Salesforce character version of our inflatable T-Rex mascot.
+<p align="center">
+<img src="assets/images/Lionheart_sprinty.png" width="75%">
+</p>
+
+We celebrate Sprinty as many ways as we can as program leaders. While he might have started as a employee initiative, he's now very much owned by the Community!
 
 <p align="center">
 <img src="assets/images/Shun_Sprinty_2022.png" width="400">
