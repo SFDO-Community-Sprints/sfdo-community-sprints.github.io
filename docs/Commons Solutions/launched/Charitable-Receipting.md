@@ -158,7 +158,7 @@ There are some solutions that have been built by companies that are no longer ar
 
 Some organizations choose to build a custom solution using a variety of tools such as a 3rd party document generation tool (Nintex/Conga/S-Docs, etc,) and flow or apex automation, however they may not be CRA compliant because of the complexity of managing receipts. The complexity and feature options would depend on what has been built by the partner or architect owning the solution.
 
-There are some 3rd party apps that also offer a solution that will also send an automated receipt however it may or may not meet the CRA requirements. For example, [FundraiseUp](https://fundraiseup.com/support/canada-compatibility/) and [Cloudstack](https://cloudstackservices.com/charitable-donation-receipting-for-nonprofits/) offer a solution that will provide CRA compliant tax receipts with their donation solution, but not necessarily for offline donations.   
+There are some 3rd party apps that also offer a solution that will also send an automated receipt however it may or may not meet the CRA requirements. For example, [GoFundMePro](https://pro.gofundme.com/), [FundraiseUp](https://fundraiseup.com/support/canada-compatibility/) and [Cloudstack](https://cloudstackservices.com/charitable-donation-receipting-for-nonprofits/) offer a solution that will provide CRA compliant tax receipts with their donation solution, but not necessarily for offline donations.   
 
 
 **Contributors**:   
