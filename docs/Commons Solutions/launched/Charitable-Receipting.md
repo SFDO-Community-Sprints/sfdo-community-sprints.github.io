@@ -1,7 +1,7 @@
 ---
 title: Charitable Receipting
 nav_order: 1
-parent: launched
+parent: Launched Solutions
 grandparent: Commons Solutions
 ---
 
