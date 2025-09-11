@@ -1,7 +1,7 @@
 ---
 title: Declarative Lookup Rollup Summaries (DLRS)
 nav_order: 1
-parent: launched
+parent: Launched Solutions
 grandparent: Commons Solutions
 ---
 
