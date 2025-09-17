@@ -8,8 +8,7 @@ grandparent: Commons Solutions
 # Charitable Receipting
 
 # **OSC \- Charitable Receipting \- September Sprint 2025**
-> [!Tip]
-> ⬇️ [Jump to Receipting Solution Options](https://github.com/SFDO-Community-Sprints/sfdo-community-sprints.github.io/blob/main/docs/Commons%20Solutions/launched/Charitable-Receipting.md#receipting-solution-options )
+⬇️ [Jump to Receipting Solution Options](https://github.com/SFDO-Community-Sprints/sfdo-community-sprints.github.io/blob/main/docs/Commons%20Solutions/launched/Charitable-Receipting.md#receipting-solution-options )
 
 ## Why is Receipting Important?
 
@@ -130,7 +129,7 @@ Because the details vary between jurisdictions and are subject to change, organi
 
 ## Receipting Solution Options
 
-[**Receipting Matrix**](https://docs.google.com/spreadsheets/d/1Q34JMeBo8EImI3QF-MzC0hWvdG89bDC8MWchKLI3dW4/edit?gid=0#gid=0%20)
+[**Receipting Solution Comparison Matrix**](https://docs.google.com/spreadsheets/d/1Q34JMeBo8EImI3QF-MzC0hWvdG89bDC8MWchKLI3dW4/edit?gid=0#gid=0%20)
 
 To support informed decision-making in selecting an optimal tax receipting solution, this evaluation matrix serves as a comprehensive, structured tool, comparing key platforms side by side, including attributes such as CRA/IRS compliance, bilingual support, data residency, and more.
 
