@@ -9,7 +9,7 @@ grandparent: Commons Solutions
 
 # **OSC \- Charitable Receipting \- September Sprint 2025**
 [!TIP]
-:arrow_down:[Jump to Receipting Solutions Options]([https://pages.github.com)](https://github.com/SFDO-Community-Sprints/sfdo-community-sprints.github.io/blob/main/docs/Commons%20Solutions/launched/Charitable-Receipting.md#receipting-solution-options )
+:arrow_down: [Jump to Receipting Solutions Options]([https://pages.github.com)](https://github.com/SFDO-Community-Sprints/sfdo-community-sprints.github.io/blob/main/docs/Commons%20Solutions/launched/Charitable-Receipting.md#receipting-solution-options )
 
 ## Why is Receipting Important?
 
