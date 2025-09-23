@@ -10,23 +10,14 @@ has_children: true
 ## Upcoming Community Sprints & Events - Join in the fun today:
 
 ### Confirmed Events - Register or Save-The-Date
-- NYC Community Breakfast at Agentforce World Tour NYC, May 21st, 2025. [Add to your Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjljaWlmcG1odmdyamZsNnBvaHA0OWFmMjUgY192ZGRlMXF0ajdhNjk2NzMxZ3BwNzAzODJpa0Bn&tmsrc=c_vdde1qtj7a696731gpp70382ik%40group.calendar.google.com). No reg for the breakfast, but yes for [World Tour](https://www.salesforce.com/events/world-tour/nyc/?_gl=1*1lmo1uk*_gcl_au*MTYxNjk3NDA0Ni4xNzQ0NzQ3MDYy*_ga*MTY3MjIyNDEzOS4xNzQ0NzQ3MDYy*_ga_H6M98GGB18*MTc0NDc1MTg5NC4xLjEuMTc0NDc1MTg5Ny4wLjAuMA..&_ga=2.4987955.1299581222.1744751896-1672224139.1744747062).
-- June 6th, 2025 - [London's Calling](https://www.londonscalling.net/) Community engagement
-- June 9th, 2025 - Community Sprint as part of London Agentforce World Tour. Location: Salesforce Bluefin Office, London Southwark. [Register today!](https://invite.salesforce.com/londoncommunitysprint)
-- June 11th, 2025 - Nonprofit Networking Breakfast as part of London Agentforce World Tour. Location: Nonprofit Room in Excel. [Add to your Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm1nMGE1aGFqcjNvOWl1cGQwczR2M2lqYjIgY192ZGRlMXF0ajdhNjk2NzMxZ3BwNzAzODJpa0Bn&tmsrc=c_vdde1qtj7a696731gpp70382ik%40group.calendar.google.com)
-- June 17th, 2025 - Community Day, Amsterdam, NL. New type of event to bring local Nonprofit organizations and partners together for networking, an innovation workshop, and hands-on-training. [Register here!](https://invite.salesforce.com/amsterdamnonprofitcommunityday)
-- July 30th - 31st, 2025 - Virtual Community Sprint. [Register here!](https://invite.salesforce.com/virtualcommonscommunitysprint-654c)
-- September 10th - 11th, 2025 - Community Sprint Vancouver, BC. [Save the Date!](https://docs.google.com/forms/d/e/1FAIpQLScuFtQAXCt2CwC5MSo7Fiqz2ZBbYVw89hoK_esCef1c2OwbLw/viewform).
+- October 14th - 17th, 2025 - Dreamforce Community engagement. Exact activities/date TBA.
+- November 13th & 14th, 2025 - Community Sprint & Learning Day, Denver, CO. University of Colorado Denver. [Register today!](https://invite.salesforce.com/denvercommunitysprint)
+- December 11th & 12th, 2025 - Agentforce Nonprofit Community Sprint. Location: San Francisco Agentblazer Ranch. Save-The-Date, registration coming soon!
 
 
 ### Unconfirmed But Planned Events
 
 *Unconfirmed event dates, venues, and locations are subject to change or cancellation. Additional events may be added. Please take this into consideration before booking any travel arrangements.*
-
-- October 14th - 17th, 2025 - Dreamforce Community engagement. Exact activities/date TBA.
-- November, 2025 - Community Sprint & Learning Day, Denver, CO. Exact date/location TBA.
-- November, 2025 - UK Affordable Housing Sprint. Exact date/location TBA.
-- Early December, 2025 - Nonprofit Agentforce Community Sprint. Location: San Francisco Agentforce Ranch. Exact date TBA.
 - January, 2026 - Virtual 2-Day Community Sprint. Exact date TBA.
 
 
