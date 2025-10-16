@@ -9,11 +9,9 @@ has_children: true
 
 ## Upcoming Community Sprints & Events - Join in the fun today:
 
-### Confirmed Events - Register or Save-The-Date
-- October 14th - 17th, 2025 - Dreamforce Community engagement. Exact activities/date TBA.
+### Confirmed Events - Register Now
 - November 13th & 14th, 2025 - Community Sprint & Learning Day, Denver, CO. University of Colorado Denver. [Register today!](https://invite.salesforce.com/denvercommunitysprint)
-- December 11th & 12th, 2025 - Agentforce Nonprofit Community Sprint. Location: San Francisco Agentblazer Ranch. Save-The-Date, registration coming soon!
-
+- December 11th & 12th, 2025 - Agentforce Nonprofit Community Sprint. Location: San Francisco Agentblazer Ranch. [Register today!](https://invite.salesforce.com/agentforcecommunitysprint)
 
 ### Unconfirmed But Planned Events
 
