@@ -9,10 +9,6 @@ grandparent: Commons Solutions
 
 **Page Layout Considerations**
 
-[Contributors](https://docs.google.com/document/d/14u936yz_7QKQbdr3zX5x6z1w3_qdQJQ2ZXUoRpGYFaA/edit?pli=1&tab=t.0#heading=h.dt203efzs2bj)
-[Introduction](https://docs.google.com/document/d/14u936yz_7QKQbdr3zX5x6z1w3_qdQJQ2ZXUoRpGYFaA/edit?pli=1&tab=t.0#heading=h.1inf9129l3a7)
-[Considerations](https://docs.google.com/document/d/14u936yz_7QKQbdr3zX5x6z1w3_qdQJQ2ZXUoRpGYFaA/edit?pli=1&tab=t.0#heading=h.byeh3jqsth7t)
-
 **Contributors**
 - Erica Buckingham
 - Tony Carollo
