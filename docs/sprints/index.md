@@ -10,14 +10,14 @@ has_children: true
 ## Upcoming Community Sprints & Events - Join in the fun today:
 
 ### Confirmed Events - Register Now
-- November 13th & 14th, 2025 - Community Sprint & Learning Day, Denver, CO. University of Colorado Denver. [Register today!](https://invite.salesforce.com/denvercommunitysprint)
 - December 11th & 12th, 2025 - Agentforce Nonprofit Community Sprint. Location: San Francisco Agentblazer Ranch. [Register today!](https://invite.salesforce.com/agentforcecommunitysprint)
+- January 21-22, 2026 - Virtual 2-Day Community Sprint. Save the date!
 
 ### Unconfirmed But Planned Events
 
 *Unconfirmed event dates, venues, and locations are subject to change or cancellation. Additional events may be added. Please take this into consideration before booking any travel arrangements.*
-- January, 2026 - Virtual 2-Day Community Sprint. Exact date TBA.
 
+- Full 2026 scheduling coming soon!
 
 # What are Community Sprints?
 Community Sprint Events are about coming together to collaborate with organizations like yours to build solutions to address everyday challenges. By attending a Sprint, you'll come together in person, virtually, and via Slack to work on projects that are important to you and will make a real difference for Nonprofits and Schools using Salesforce technologies. 
