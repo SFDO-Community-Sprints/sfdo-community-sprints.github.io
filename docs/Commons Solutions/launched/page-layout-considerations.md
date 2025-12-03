@@ -32,6 +32,6 @@ As the information on your record page becomes complex, you need to determine th
 
 *subject to change in future Salesforce Releases
 
-<img src="./images/PageLayouts-LRPDecisionTree.png" width="100%" alt="Page Layout Considerations Decision Tree">
+<img src="/docs/Commons%20Solutions/launched/images/PageLayouts-LRPDecisionTree.png" width="100%" alt="Page Layout Considerations Decision Tree">
 
 Decision tree to help you decide which form of Salesforce Page layout options is right for your use case.
