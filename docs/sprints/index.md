@@ -10,7 +10,6 @@ has_children: true
 ## Upcoming Community Sprints & Events - Join in the fun today:
 
 ### Confirmed Events - Register Now
-- December 11th & 12th, 2025 - Agentforce Nonprofit Community Sprint. Location: San Francisco Agentblazer Ranch. [Register today!](https://invite.salesforce.com/agentforcecommunitysprint)
 - January 21-22, 2026 - Virtual 2-Day Community Sprint. [Register today!](https://invite.salesforce.com/virtualcommunitysprint)
 - February 23-24, 2026 - Sydney 2-Day Community Sprint. [Register today!](https://invite.salesforce.com/sydneycommunitysprint)
 
