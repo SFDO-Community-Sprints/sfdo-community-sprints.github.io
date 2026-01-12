@@ -1,6 +1,6 @@
 ---
 title: Salesforce Page Layout Considerations
-nav_order: 3
+nav_order: 2
 parent: Launched Solutions
 grandparent: Commons Solutions
 ---
