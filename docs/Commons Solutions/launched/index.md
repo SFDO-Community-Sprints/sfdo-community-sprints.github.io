@@ -141,6 +141,24 @@ An online library of 200+ crowdsourced resources including blog posts, Trailblaz
 
 ---
 
+**Salesforce Technical Collective**
+
+*Connecting small nonprofits with junior admins and expert mentors for real-world Salesforce experience*
+
+A community-led program that bridges the gap between junior Salesforce administrators seeking hands-on experience and small to mid-sized nonprofits needing Salesforce support. Seasoned professionals provide mentorship and guidance, creating a win-win-win for all participants.
+
+* **Link:** [Learn More & Get Involved](https://sfdo-community-sprints.github.io/The-Technical-Collective/)
+* **Audience:** Nonprofit Salesforce customers, certified junior admins, experienced Salesforce professionals
+* **Who Can Participate:**
+    * Small to mid-sized nonprofits using Power of Us Program licenses
+    * Junior Salesforce professionals with at least one certification seeking experience
+    * Technical experts with 5+ years of Salesforce experience (MVPs, Champions, volunteers)
+* **Key Benefits:** Pro-bono or compensated nonprofit support, real-world experience for junior admins, structured volunteer opportunities for experts
+* **Cost:** Free — designed to provide pro-bono support while building skills
+* **Note:** Volunteer-maintained
+
+---
+
 **:tv: Video Channels**
 
 **Nonprofit Salesforce How-To Series**
