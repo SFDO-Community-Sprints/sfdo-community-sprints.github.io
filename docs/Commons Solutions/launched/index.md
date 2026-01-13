@@ -119,7 +119,7 @@ As record page information becomes complex, determining the best presentation me
 
 *Community-vetted best practices, templates, and guidance for Agentforce Nonprofit (formally known as Nonprofit Cloud)*
 
-A comprehensive resource site featuring articles, apps, templates, and best practices for Agentforce Nonprofit — filling the gap just like the community did for NPSP years ago. Includes stakeholder management, fundraising, grantmaking, program management, reports, and more.
+A comprehensive resource site featuring articles, apps, templates, installable Reports and Custom Report Types, and best practices for Agentforce Nonprofit — filling the gap just like the community did for NPSP years ago. Includes stakeholder management, fundraising, grantmaking, program management, reports, and more.
 
 * **Link:** [Visit the Hub](https://sfdo-community-sprints.github.io/npc-best-practices/)
 * **Audience:** Nonprofit Salesforce customers and partners
