@@ -38,14 +38,14 @@ _Note: Please DO NOT use your organization’s Production org or even a Sandbox 
 
 Nonprofit Products:
    
-* Nonprofit Cloud - [Get the NPC full-featured Trial experience](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.NPC_Create_Nonprofit_Cloud_Trial_Org.htm&type=5). Trial org - lasts 30 days, or sign up for a [Nonprofit Cloud Dev org](https://trailhead.salesforce.com/promo/orgs/learn-nonprofit-cloud-on-trailhead).
-* [Learn about Nonprofit Cloud](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.Nonprofit_Cloud.htm&type=5)
-* [Learn about Nonprofit Cloud for Programs](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.NPC_PM_Track_Manage_Your_Nonprofit_Initiatives_with_PM.htm&type=5) 
+* Agentforce Nonprofit (formerly known as Nonprofit Cloud) - [Get the AFNP full-featured Trial experience](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.NPC_Create_Nonprofit_Cloud_Trial_Org.htm&type=5). Trial org - lasts 30 days, or sign up for a [AFNP Dev org](https://trailhead.salesforce.com/promo/orgs/learn-nonprofit-cloud-on-trailhead).
+* [Learn about Agentforce Nonprofit](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.Nonprofit_Cloud.htm&type=5)
+* [Learn about Agentforce Nonprofit for Programs](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.NPC_PM_Track_Manage_Your_Nonprofit_Initiatives_with_PM.htm&type=5) 
 * [Learn about Case Management for Nonprofits](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.NPC_CM_Learn_About_Case_Management_for_Nonprofits.htm&type=5)
 * [Learn about Outcome Management](https://help.salesforce.com/s/articleView?language=en_US&id=sf.outcome_management_learn_explore.htm&type=5)
-* [Learn about Nonprofit Cloud Fundraising](https://help.salesforce.com/s/articleView?id=ind.outcome_management_learn_explore.htm&type=5)
-* Trailhead: [Stakeholder Management in NPC](https://trailhead.salesforce.com/content/learn/modules/stakeholder-management-in-nonprofit-cloud)
-* Trailhead: [Manage Programs with Nonprofit Cloud](https://trailhead.salesforce.com/content/learn/trails/manage-programs-with-nonprofit-cloud)
+* [Learn about Agentforce Nonprofit Fundraising](https://help.salesforce.com/s/articleView?id=ind.outcome_management_learn_explore.htm&type=5)
+* Trailhead: [Stakeholder Management in AFNP](https://trailhead.salesforce.com/content/learn/modules/stakeholder-management-in-nonprofit-cloud)
+* Trailhead: [Manage Programs with Agentforce Nonprofit](https://trailhead.salesforce.com/content/learn/trails/manage-programs-with-nonprofit-cloud)
 * [Explore Common Components](https://help.salesforce.com/s/articleView?language=en_US&id=release-notes.rn_industries_common.htm&release=244&type=5) 
         
 NPSP:
@@ -55,7 +55,7 @@ NPSP:
 * [Getting Started with Salesforce and the Nonprofit Success Pack (NPSP) - Admins](https://trailhead.salesforce.com/users/sfdo/trailmixes/npsp-19281f)
 
 Education Products:
-* [Education Cloud - Get the Education Cloud Trial](https://www.salesforce.com/form/sfdo/signup/education/education-cloud-learning-trial/?icid=SFORG:education-cloud-hero:). (Trial org - lasts 30 days)
+* [Education - Get the Education Cloud Trial](https://www.salesforce.com/form/sfdo/signup/education/education-cloud-learning-trial/?icid=SFORG:education-cloud-hero:). (Trial org - lasts 30 days)
 * [Learn about Education Cloud](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.Education_Cloud.htm&type=5)
 * Trailhead: [Education Cloud Basics](https://trailhead.salesforce.com/content/learn/modules/education-cloud-basics)
 * EDA
