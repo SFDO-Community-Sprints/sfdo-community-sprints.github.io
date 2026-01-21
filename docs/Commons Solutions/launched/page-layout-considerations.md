@@ -1,8 +1,8 @@
 ---
 title: Salesforce Page Layout Considerations
 nav_order: 2
-parent: Hosted Resources
-grandparent: launched
+parent: launched
+grandparent: Commons Solutions
 ---
 
 # Salesforce Page Layout Considerations
