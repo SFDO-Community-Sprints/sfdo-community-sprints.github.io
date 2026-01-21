@@ -2,7 +2,6 @@
 title: Salesforce Page Layout Considerations
 nav_order: 2
 parent: launched
-grandparent: Commons Solutions
 ---
 
 # Salesforce Page Layout Considerations
