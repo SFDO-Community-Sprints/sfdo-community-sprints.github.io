@@ -1,7 +1,7 @@
 ---
 title: Salesforce Page Layout Considerations
 nav_order: 2
-parent: launched
+parent: Launched Solutions
 ---
 
 # Salesforce Page Layout Considerations
