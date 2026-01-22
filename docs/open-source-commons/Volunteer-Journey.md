@@ -38,7 +38,7 @@ _Note: Please DO NOT use your organization’s Production org or even a Sandbox 
 
 Nonprofit Products:
    
-* Agentforce Nonprofit (formerly known as Nonprofit Cloud) - [Get the AFNP full-featured Trial experience]([https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.NPC_Create_Nonprofit_Cloud_Trial_Org.htm&type=5](https://developer.salesforce.com/free-trials/comparison/nonprofit-cloud)). Trial org - lasts 30 days, or sign up for a [AFNP Dev org](https://trailhead.salesforce.com/promo/orgs/learn-nonprofit-cloud-on-trailhead).
+* Agentforce Nonprofit (formerly known as Nonprofit Cloud) - [Get the AFNP full-featured Trial experience](https://developer.salesforce.com/free-trials/comparison/nonprofit-cloud). Trial org - lasts 30 days, or sign up for a [AFNP Dev org](https://trailhead.salesforce.com/promo/orgs/learn-nonprofit-cloud-on-trailhead).
 * [Learn about Agentforce Nonprofit](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.Nonprofit_Cloud.htm&type=5)
 * [Learn about Agentforce Nonprofit for Programs](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.NPC_PM_Track_Manage_Your_Nonprofit_Initiatives_with_PM.htm&type=5) 
 * [Learn about Case Management for Nonprofits](https://help.salesforce.com/s/articleView?language=en_US&id=sfdo.NPC_CM_Learn_About_Case_Management_for_Nonprofits.htm&type=5)
