@@ -17,22 +17,14 @@ has_children: true
 
 *Unconfirmed event dates, venues, and locations are subject to change or cancellation. Additional events may be added. Please take this into consideration before booking any travel arrangements.*
 
-Q1:
-
 * April 27-28 or April 30-May 1, 2026 - New York City Community Sprint (in-person!) around World Tour NYC. Registration coming soon!
-
-Q2:
 
 * Early to mid-June, 2026 - Chicago Community Sprint (in-person!). Registration coming soon!
 * June 16-17, 2026 - London Community Sprint (in-person!) the two days before World Tour London. Registration coming soon!
 * July/August 2026 - Virtual Community Sprint. Registration coming soon!
 
-Q3:
-
-* October 7-8, 2026 - Amsterdam Community Sprint (in-person!). Registration coming soon!
+* October 19-20, 2026 - Amsterdam Community Sprint (in-person!). Registration coming soon!
 * November 9-10, 2026 - Denver Community Sprint (in-person!). Registration coming soon!
-
-Q4:
 
 * January 2027 - Virtual Community Sprint. Registration coming soon!
 
