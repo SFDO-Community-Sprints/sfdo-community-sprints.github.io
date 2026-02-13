@@ -10,8 +10,8 @@ has_children: true
 ## Upcoming Community Sprints & Events - Join in the fun today:
 
 ### Confirmed Events - Register Now
-- January 21-22, 2026 - Virtual 2-Day Community Sprint. [Register today!](https://invite.salesforce.com/virtualcommunitysprint)
 - February 23-24, 2026 - Sydney 2-Day Community Sprint. [Register today!](https://invite.salesforce.com/sydneycommunitysprint)
+- March 26, 2026 - World Tour DC Nonprofit Experience Community Breakfast. [Register today!](https://invite.salesforce.com/nonprofitewelcomebreakfast)
 
 ### Unconfirmed But Planned Events
 
@@ -27,6 +27,11 @@ has_children: true
 * November 9-10, 2026 - Denver Community Sprint (in-person!). Registration coming soon!
 
 * January 2027 - Virtual Community Sprint. Registration coming soon!
+
+
+### Past 2026 Community Sprints & Events
+* January 21-22, 2026 - Virtual 2-Day Community Sprint. 
+
 
 # What are Community Sprints?
 Community Sprint Events are about coming together to collaborate with organizations like yours to build solutions to address everyday challenges. By attending a Sprint, you'll come together in person, virtually, and via Slack to work on projects that are important to you and will make a real difference for Nonprofits and Schools using Salesforce technologies. 
