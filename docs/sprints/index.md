@@ -10,8 +10,8 @@ has_children: true
 ## Upcoming Community Sprints & Events - Join in the fun today:
 
 ### Confirmed Events - Register Now
-- February 23-24, 2026 - Sydney 2-Day Community Sprint. [Register today!](https://invite.salesforce.com/sydneycommunitysprint)
 - March 26, 2026 - World Tour DC Nonprofit Experience Community Breakfast. [Register today!](https://invite.salesforce.com/nonprofitewelcomebreakfast)
+- April 26 & May 1, 2026 - World Tour NYC Community Sprint. [Register today!](https://invite.salesforce.com/nyccommunitysprint)
 
 ### Unconfirmed But Planned Events
 
@@ -30,7 +30,8 @@ has_children: true
 
 
 ### Past 2026 Community Sprints & Events
-* January 21-22, 2026 - Virtual 2-Day Community Sprint. 
+* January 21-22, 2026 - Virtual 2-Day Community Sprint.
+* February 23-24, 2026 - Sydney 2-Day Community Sprint.
 
 
 # What are Community Sprints?
