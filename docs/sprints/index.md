@@ -12,17 +12,17 @@ has_children: true
 ### Confirmed Events - Save The Date or Register Today
 - March 26, 2026 - World Tour DC Nonprofit Experience Community Breakfast. [Register today!](https://invite.salesforce.com/nonprofitewelcomebreakfast)
 - April 29 & May 1, 2026 - World Tour NYC Community Sprint. [Register today!](https://invite.salesforce.com/nyccommunitysprint)
-- June 15-16 - London Community Sprint (in-person!) | London, UK | Before World Tour London - Save the date, registration coming soon!
-- August 11-12 - Virtual Community Sprint | Online - Save the date!
-- October 14-15 - UK Housing Sprint (in-person) | Leeds, UK - Save the date!
-- October 19-20 - Amsterdam Community Sprint (in-person!) | Amsterdam, Netherlands - Save the date!
+- June 15-16 - London Community Sprint (in-person!) London, UK Before World Tour London - Save the date, registration coming soon!
+- August 11-12 - Virtual Community Sprint (Online) - Save the date!
+- October 14-15 - UK Housing Sprint (in-person) Leeds, UK - Save the date!
+- October 19-20 - Amsterdam Community Sprint (in-person!) Amsterdam, Netherlands - Save the date!
 
 ### Unconfirmed But Planned Events
 
 *Unconfirmed event dates, venues, and locations are subject to change or cancellation. Additional events may be added. Please take this into consideration before booking any travel arrangements.*
 
 - UPDATED: November 9-10 - San Francisco Community Sprint (in-person!)
-- January 2027 - Virtual Community Sprint | Online
+- January 2027 - Virtual Community Sprint (Online)
 
 ### Important Schedule Updates:
 
