@@ -9,25 +9,30 @@ has_children: true
 
 ## Upcoming Community Sprints & Events - Join in the fun today:
 
-### Confirmed Events - Register Now
+### Confirmed Events - Save The Date Or Register Today
 - March 26, 2026 - World Tour DC Nonprofit Experience Community Breakfast. [Register today!](https://invite.salesforce.com/nonprofitewelcomebreakfast)
-- April 26 & May 1, 2026 - World Tour NYC Community Sprint. [Register today!](https://invite.salesforce.com/nyccommunitysprint)
+- April 29 & May 1, 2026 - World Tour NYC Community Sprint. [Register today!](https://invite.salesforce.com/nyccommunitysprint)
+
+- June 15-16 - London Community Sprint (in-person!) | London, UK | Before World Tour London - Save the date, registration coming soon!
+- August 11-12 - Virtual Community Sprint | Online - Save the date!
+- October 14-15 - UK Housing Sprint (in-person) | Leeds, UK - Save the date!
+- October 19-20 - Amsterdam Community Sprint (in-person!) | Amsterdam, Netherlands - Save the date!
 
 ### Unconfirmed But Planned Events
 
 *Unconfirmed event dates, venues, and locations are subject to change or cancellation. Additional events may be added. Please take this into consideration before booking any travel arrangements.*
 
-* April 27-28 or April 30-May 1, 2026 - New York City Community Sprint (in-person!) around World Tour NYC. Registration coming soon!
+- UPDATED: November 9-10 - San Francisco Community Sprint (in-person!)
+- January 2027 - Virtual Community Sprint | Online
 
-* Early to mid-June, 2026 - Chicago Community Sprint (in-person!). Registration coming soon!
-* June 16-17, 2026 - London Community Sprint (in-person!) the two days before World Tour London. Registration coming soon!
-* July/August 2026 - Virtual Community Sprint. Registration coming soon!
+### Important Schedule Updates:
 
-* October 19-20, 2026 - Amsterdam Community Sprint (in-person!). Registration coming soon!
-* November 9-10, 2026 - Denver Community Sprint (in-person!). Registration coming soon!
+We've made a couple of changes to ensure the best possible experience for you and avoid conflicts with other major community events:
 
-* January 2027 - Virtual Community Sprint. Registration coming soon!
+- Chicago Spring Sprint - We've decided not to move forward with this event. After reviewing the calendar, every potential date conflicted with World Tours, Dreamin' events, Connections, or federal holidays. We know your time is valuable, and we want to maximize attendance when we bring Sprints to Chicago—we're already looking at options for 2027!
+- Fall Sprint Location Change - We're moving our fall Sprint from Denver to San Francisco. While we loved our time in Denver last year and hope to return in the future, San Francisco allows us to host you in a Salesforce Tower with larger capacity and an even better venue—while still delivering a west-USA regional event for the community.
 
+Thank you for your continued excitement and participation in Sprint events. We can't wait to see you at an upcoming event! 
 
 ### Past 2026 Community Sprints & Events
 * January 21-22, 2026 - Virtual 2-Day Community Sprint.
