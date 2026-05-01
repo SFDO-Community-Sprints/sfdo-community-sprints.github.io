@@ -1,5 +1,5 @@
 ---
-title: Garbage In Hallucinations Out - Why Your Data Matters More Than Your AI
+title: Data Quality Essentials
 nav_order: 1
 parent: Launched Solutions
 ---
