@@ -217,3 +217,22 @@ If you're in the nonprofit or stakeholder-heavy space, these Trailhead modules a
 Data quality isn't just a one-time cleanup project—it's an ongoing discipline. The organizations that get this right don't just have cleaner systems. They move faster, make better decisions, and get far more value out of AI. The ones that don't… end up blaming the tools.
 
 And it's almost never the tools.
+
+## Acknowledgments
+
+This article was created and developed by a dedicated team of volunteers at the 
+NYC Community Sprint (April 2026). A huge thank you to everyone who contributed 
+their time and expertise:
+
+- Mike Baszto
+- Dominic Schmitt
+- Hannah Frasco
+- Janeen Marquardt
+- Nicole Bown
+- Juliette Altman
+- Paola Gonzalez
+- Rohini Wagh
+- Tania Ortiz-Ashby
+- Tiffane James
+
+Your contributions make the Commons community stronger! 🎉
