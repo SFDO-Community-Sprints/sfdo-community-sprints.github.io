@@ -113,6 +113,32 @@ As record page information becomes complex, determining the best presentation me
 
 ---
 
+**Garbage In, Hallucinations Out: Why Your Data Matters More Than Your AI**
+
+*A practical guide to data quality fundamentals for nonprofits using Salesforce and AI tools*
+
+AI is only as good as the data behind it. This guide walks through the most common data pain points—duplicates, bloated systems, weak data modeling—and offers best practices, native Salesforce tools, and third-party resources to help nonprofits build a strong data foundation before layering on AI.
+
+* **Link:** [Read the Guide](https://sfdo-community-sprints.github.io/docs/Commons%20Solutions/launched/Data-Quality-Essentials/#garbage-in-hallucinations-out-why-your-data-matters-more-than-your-ai)
+* **Audience:** Nonprofit organizations, Salesforce admins, and partners exploring AI readiness
+* **Key Topics:** Data quality, duplicate management, data modeling, AI readiness, Agentforce, data management policies, AppExchange tools
+* **Note:** Written at April 2026 NYC Community Sprint - 100% volunteer-maintained
+
+---
+
+**The Power of Peer Advice: All You Need to Know About P2P Fundraising**
+
+*A comprehensive guide to peer-to-peer and DIY fundraising strategy, data modeling, and platform selection for nonprofits using Salesforce*
+
+Peer-to-peer fundraising turns passionate supporters into advocates and ambassadors. This guide covers the full P2P and DIY fundraising lifecycle — from campaign hierarchy strategy and Salesforce data modeling (NPSP and AFNP) to platform comparisons across AMER and APAC, Marketing Cloud integration, reporting needs, and common Salesforce customizations.
+
+* **Link:** [Read the Guide](https://sfdo-community-sprints.github.io/docs/Commons%20Solutions/launched/The-Power-of-Peer-Advice-All-You-Need-to-Know-About-P2P-Fundraising/#the-power-of-peer-advice-all-you-need-to-know-about-p2p-fundraising)
+* **Audience:** Nonprofit organizations, Salesforce admins and architects, and partners supporting fundraising programs
+* **Key Topics:** P2P fundraising strategy, DIY fundraising, campaign hierarchy, NPSP vs. AFNP data models, platform integrations (DonorDrive, GoFundMe Pro, OneCause, Fundraise Up, Raisely, Grassrootz, Funraisin), Marketing Cloud, reporting, Salesforce customization
+* **Note:** Written at February 2026 Sydney Community Sprint - 100% volunteer-maintained
+
+---
+
 **:globe_with_meridians: Resource Sites & Libraries**
 
 **Nonprofit Cloud Best Practices - Community Asset Hub**
