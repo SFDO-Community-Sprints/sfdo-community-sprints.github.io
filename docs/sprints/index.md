@@ -14,8 +14,8 @@ has_children: true
 - April 29 & May 1, 2026 - World Tour NYC Community Sprint. [Register today!](https://invite.salesforce.com/nyccommunitysprint)
 - June 15-16 - London Community Sprint (in-person!) London, UK Before World Tour London - Save the date, registration coming soon!
 - August 11-12 - Virtual Community Sprint (Online) - Save the date!
-- October 14-15 - UK Housing Sprint (in-person) Leeds, UK - Save the date!
 - October 19-20 - Amsterdam Community Sprint (in-person!) Amsterdam, Netherlands - Save the date!
+- October 22 - UK Housing Workshop | London, UK - Save the date! (Added)
 
 ### Unconfirmed But Planned Events
 
