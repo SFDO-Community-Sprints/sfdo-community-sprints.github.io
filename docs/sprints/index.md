@@ -12,7 +12,7 @@ has_children: true
 ### Confirmed Events - Save The Date or Register Today
 - August 11-12 - Virtual Community Sprint (Online) - [Register now!](https://invite.salesforce.com/aug2026virtualcommunitysprint)
 - October 19-20 - Amsterdam Community Sprint (in-person!) Amsterdam, Netherlands - [Register now!](https://invite.salesforce.com/amsterdamcommunitysprint)
-- October 22 - UK Housing Workshop | London, UK - [Register now!](https://invite.salesforce.com/affordablehousingworkshop)
+- October 22 - UK Housing Workshop. London, UK - [Register now!](https://invite.salesforce.com/affordablehousingworkshop)
 - November 9-10 - San Francisco Community Sprint (in-person!) - [Register now!](https://invite.salesforce.com/sanfranciscocommunitysprint)
 
 ### Unconfirmed But Planned Events
