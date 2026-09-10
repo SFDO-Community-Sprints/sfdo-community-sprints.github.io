@@ -10,7 +10,6 @@ has_children: true
 ## Upcoming Community Sprints & Events - Join in the fun today:
 
 ### Confirmed Events - Save The Date or Register Today
-- August 11-12 - Virtual Community Sprint (Online) - [Register now!](https://invite.salesforce.com/aug2026virtualcommunitysprint)
 - October 19-20 - Amsterdam Community Sprint (in-person!) Amsterdam, Netherlands - [Register now!](https://invite.salesforce.com/amsterdamcommunitysprint)
 - October 22 - UK Housing Workshop. London, UK - [Register now!](https://invite.salesforce.com/affordablehousingworkshop)
 - November 9-10 - San Francisco Community Sprint (in-person!) - [Register now!](https://invite.salesforce.com/sanfranciscocommunitysprint)
@@ -28,10 +27,6 @@ We've made a couple of changes to ensure the best possible experience for you an
 - Fall Sprint Location Change - We're moving our fall Sprint from Denver to San Francisco. While we loved our time in Denver last year and hope to return in the future, San Francisco allows us to host you in a Salesforce Tower with larger capacity and an even better venue—while still delivering a west-USA regional event for the community.
 
 Thank you for your continued excitement and participation in Sprint events. We can't wait to see you at an upcoming event! 
-
-### Past 2026 Community Sprints & Events
-* January 21-22, 2026 - Virtual 2-Day Community Sprint.
-* February 23-24, 2026 - Sydney 2-Day Community Sprint.
 
 
 # What are Community Sprints?
